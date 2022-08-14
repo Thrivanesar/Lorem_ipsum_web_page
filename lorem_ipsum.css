@@ -1,0 +1,90 @@
+.image{
+    opacity : 1;
+    display : block;
+    max-width : 30%;
+    height:30%;
+    right-margin : 10%;
+    left-margin:auto;
+    right-padding : 10%;
+    left-padding : auto;
+   align : top;
+   object-position : right;
+}
+.second{
+    left-margin : 10%;
+    right-margin : auto;
+    align : center;
+    top-padding:10%;
+    bottom-padding:auto;
+    left-padding:10%;
+    right-padding:auto;
+}
+.second_heading{
+    align : middle;
+}
+.second_text{
+    align : middle;
+ }
+ .btn{
+     background-color : black;
+     text-align:center;
+     color : white;
+     padding : 5px 25px;
+     display : inline-block;
+}
+.top_menu{
+    overflow:hidden;
+    background-color:none;
+ }
+ .top_menu a{
+     text-position:top;
+     float : left;
+     align:center;
+     color:black;
+     padding : 14px 16px;
+     
+}
+.third{
+    align:center;
+    left-margin:50%;
+    right-margin:auto;
+    top-padding:20%;
+    bottom-padding:auto;
+    right-padding : 50%;
+    left-padding : auto;
+}
+.third_heading{
+    align : center;
+  }
+  .third_text{
+      align:center;
+   }
+   .photo1{
+       display:inline-block;
+       max-width:30%;
+       height:auto;
+       right-padding:80%;
+    }
+    .photo2{
+        display:inline-block;
+        max-width:30%;
+        height:auto;
+        right-padding:60%;
+    }
+    .photo3{
+        display:inline-block;
+        max-width:30%;
+        height:auto;
+        right-padding:40%;
+     }
+     .btn2{
+         background-color : grey;
+         text-align:center;
+         color:black;
+         padding : 20px 100px;
+         display:inline-block;
+   }
+    
+   
+    
+
